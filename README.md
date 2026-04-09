@@ -1,4 +1,4 @@
-# KATA TEST CARREFOUR
+
 
 ## Features
 - Product listing from FakeStoreAPI
